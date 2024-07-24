@@ -1,0 +1,77 @@
+
+    {
+    "info": {
+        "id": "594495",
+        "name": "Aasife Biriyani",
+        "cloudinaryImageId": "cqjxwvzqcbwkcygftrho",
+        "locality": "Ooty Main Road\n",
+        "areaName": "Mettupalayam Locality",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+            "Biryani",
+            "North Indian",
+            "Chinese",
+            "Seafood",
+            "Beverages"
+        ],
+        "avgRating": 4.3,
+        "parentId": "1265",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "100+",
+        "sla": {
+            "deliveryTime": 63,
+            "lastMileTravel": 11.1,
+            "serviceability": "SERVICEABLE",
+            "slaString": "60-65 mins",
+            "lastMileTravelString": "11.1 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-07-16 23:00:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {}
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "--"
+            }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+        "context": "seo-data-5b3f0263-d140-4954-b1ba-c4400fd3b4d7"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/aasife-biriyani-ooty-main-road-mettupalayam-locality-coimbatore-594495",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}
